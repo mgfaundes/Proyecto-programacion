@@ -1,0 +1,2 @@
+def funcion():
+    print("hola")
